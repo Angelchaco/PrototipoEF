@@ -1,0 +1,9 @@
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\CapaVIstaTrasladoProdBodegas\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\CapaVIstaTrasladoProdBodegas\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\CapaVIstaTrasladoProdBodegas\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\CapaVIstaTrasladoProdBodegas\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\CapaVIstaTrasladoProdBodegas\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\CapaVIstaTrasladoProdBodegas\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\CapaVIstaTrasladoProdBodegas\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\CapaVIstaTrasladoProdBodegas\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\CapaVIstaTrasladoProdBodegas\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete

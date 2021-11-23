@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bfec8d83-b70b-42f7-b11b-ca0c9a83162b": {
+      "ProjectGuid": "bfec8d83-b70b-42f7-b11b-ca0c9a83162b",
+      "DisplayName": "CapaVIsta",
+      "ColorIndex": 0
+    },
+    "2e0bebe3-8a37-4957-9443-9a6e72b07b97": {
+      "ProjectGuid": "2e0bebe3-8a37-4957-9443-9a6e72b07b97",
+      "DisplayName": "CapaModelo",
+      "ColorIndex": 1
+    },
+    "7c2982b4-9942-4bca-98d3-327849502043": {
+      "ProjectGuid": "7c2982b4-9942-4bca-98d3-327849502043",
+      "DisplayName": "CapaControlador",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

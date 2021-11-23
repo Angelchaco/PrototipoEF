@@ -1,0 +1,6 @@
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\CapaVIstaTrasladoProdBodegas\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\CapaVIstaTrasladoProdBodegas\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\CapaVIstaTrasladoProdBodegas\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\CapaVIstaTrasladoProdBodegas\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\CapaVIstaTrasladoProdBodegas\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\CapaVIstaTrasladoProdBodegas\CapaModelo\obj\Debug\CapaModelo.pdb

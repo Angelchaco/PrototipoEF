@@ -1,0 +1,13 @@
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\llamadaTrasladoProdBodegas\llamadaTrasladoProdBodegas\bin\Debug\llamadaTrasladoProdBodegas.exe.config
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\llamadaTrasladoProdBodegas\llamadaTrasladoProdBodegas\bin\Debug\llamadaTrasladoProdBodegas.exe
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\llamadaTrasladoProdBodegas\llamadaTrasladoProdBodegas\bin\Debug\llamadaTrasladoProdBodegas.pdb
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\llamadaTrasladoProdBodegas\llamadaTrasladoProdBodegas\bin\Debug\CapaVIsta.dll
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\llamadaTrasladoProdBodegas\llamadaTrasladoProdBodegas\bin\Debug\CapaVIsta.pdb
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\llamadaTrasladoProdBodegas\llamadaTrasladoProdBodegas\obj\Debug\llamadaTrasladoProdBodegas.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\llamadaTrasladoProdBodegas\llamadaTrasladoProdBodegas\obj\Debug\llamadaTrasladoProdBodegas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\llamadaTrasladoProdBodegas\llamadaTrasladoProdBodegas\obj\Debug\llamadaTrasladoProdBodegas.Properties.Resources.resources
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\llamadaTrasladoProdBodegas\llamadaTrasladoProdBodegas\obj\Debug\llamadaTrasladoProdBodegas.csproj.GenerateResource.cache
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\llamadaTrasladoProdBodegas\llamadaTrasladoProdBodegas\obj\Debug\llamadaTrasladoProdBodegas.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\llamadaTrasladoProdBodegas\llamadaTrasladoProdBodegas\obj\Debug\llamadaTrasladoProdBodegas.csproj.CopyComplete
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\llamadaTrasladoProdBodegas\llamadaTrasladoProdBodegas\obj\Debug\llamadaTrasladoProdBodegas.exe
+C:\Users\Angel\Desktop\Pruebas\Examen Final (Serie III)Caso Práctico(Diseño)\PrototipoEF\llamadaTrasladoProdBodegas\llamadaTrasladoProdBodegas\obj\Debug\llamadaTrasladoProdBodegas.pdb
