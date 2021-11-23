@@ -1,0 +1,486 @@
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\MySql.Data.dll
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\Google.Protobuf.dll
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\Zstandard.Net.dll
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\BouncyCastle.Crypto.dll
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\Ubiety.Dns.Core.dll
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\System.Memory.dll
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\System.Buffers.dll
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\K4os.Compression.LZ4.dll
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\K4os.Hash.xxHash.dll
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\MySql.Data.xml
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+D:\Brayan Cifuentes\source\repos\DLLnav\DLLnav\obj\Debug\CapaVista.csprojAssemblyReference.cache
+J:\uni\NavegadorReDo\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+J:\uni\NavegadorReDo\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+J:\uni\NavegadorReDo\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+J:\uni\NavegadorReDo\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+J:\uni\NavegadorReDo\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+J:\uni\NavegadorReDo\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+J:\uni\NavegadorReDo\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+J:\uni\NavegadorReDo\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+J:\uni\NavegadorReDo\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+J:\uni\NavegadorReDo\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+J:\uni\NavegadorReDo\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+J:\uni\NavegadorReDo\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+J:\uni\NavegadorReDo\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+J:\uni\NavegadorReDo\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\MySql.Data.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\Google.Protobuf.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\Zstandard.Net.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\System.Memory.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\System.Buffers.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+C:\Users\USUARIO\Desktop\proyecto2p\DLLnav\DLLnav\bin\Debug\MySql.Data.xml
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\MySql.Data.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\Google.Protobuf.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\Zstandard.Net.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\System.Memory.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\System.Buffers.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\bin\Debug\MySql.Data.xml
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\obj\Debug\CapaVista.csprojAssemblyReference.cache
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\obj\Debug\CapaVista.csprojAssemblyReference.cache
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+J:\uni\NavegadorUltm\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+J:\uni\NavegadorUltm\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+J:\uni\NavegadorUltm\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+J:\uni\NavegadorUltm\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+J:\uni\NavegadorUltm\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+J:\uni\NavegadorUltm\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+J:\uni\NavegadorUltm\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+J:\uni\NavegadorUltm\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+J:\uni\NavegadorUltm\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+J:\uni\NavegadorUltm\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+J:\uni\NavegadorUltm\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+J:\uni\NavegadorUltm\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+J:\uni\NavegadorUltm\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+J:\uni\NavegadorUltm\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV2\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV2\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV2\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV2\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV2\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV2\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV2\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV2\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV2\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV2\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV2\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV2\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV2\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV2\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+C:\Users\HP\Desktop\Análisis de Sistemas 2\HCS\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+C:\Users\HP\Desktop\Análisis de Sistemas 2\HCS\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+C:\Users\HP\Desktop\Análisis de Sistemas 2\HCS\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+C:\Users\HP\Desktop\Análisis de Sistemas 2\HCS\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+C:\Users\HP\Desktop\Análisis de Sistemas 2\HCS\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+C:\Users\HP\Desktop\Análisis de Sistemas 2\HCS\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+C:\Users\HP\Desktop\Análisis de Sistemas 2\HCS\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+C:\Users\HP\Desktop\Análisis de Sistemas 2\HCS\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Análisis de Sistemas 2\HCS\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Análisis de Sistemas 2\HCS\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\HP\Desktop\Análisis de Sistemas 2\HCS\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+C:\Users\HP\Desktop\Análisis de Sistemas 2\HCS\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+C:\Users\HP\Desktop\Análisis de Sistemas 2\HCS\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Análisis de Sistemas 2\HCS\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+C:\Users\kikhe\OneDrive\Escritorio\Navegador Nuevo\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+C:\Users\kikhe\OneDrive\Escritorio\Navegador Nuevo\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Navegador Nuevo\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+C:\Users\kikhe\OneDrive\Escritorio\Navegador Nuevo\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+C:\Users\kikhe\OneDrive\Escritorio\Navegador Nuevo\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Navegador Nuevo\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+C:\Users\kikhe\OneDrive\Escritorio\Navegador Nuevo\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\kikhe\OneDrive\Escritorio\Navegador Nuevo\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+C:\Users\kikhe\OneDrive\Escritorio\Navegador Nuevo\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+C:\Users\kikhe\OneDrive\Escritorio\Navegador Nuevo\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\kikhe\OneDrive\Escritorio\Navegador Nuevo\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\kikhe\OneDrive\Escritorio\Navegador Nuevo\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\kikhe\OneDrive\Escritorio\Navegador Nuevo\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+C:\Users\kikhe\OneDrive\Escritorio\Navegador Nuevo\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+C:\Users\alecz\OneDrive\Escritorio\Proyecto HSC\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+C:\Users\alecz\OneDrive\Escritorio\Proyecto HSC\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+C:\Users\alecz\OneDrive\Escritorio\Proyecto HSC\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+C:\Users\alecz\OneDrive\Escritorio\Proyecto HSC\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+C:\Users\alecz\OneDrive\Escritorio\Proyecto HSC\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+C:\Users\alecz\OneDrive\Escritorio\Proyecto HSC\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+C:\Users\alecz\OneDrive\Escritorio\Proyecto HSC\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\alecz\OneDrive\Escritorio\Proyecto HSC\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+C:\Users\alecz\OneDrive\Escritorio\Proyecto HSC\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+C:\Users\alecz\OneDrive\Escritorio\Proyecto HSC\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\alecz\OneDrive\Escritorio\Proyecto HSC\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\alecz\OneDrive\Escritorio\Proyecto HSC\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\alecz\OneDrive\Escritorio\Proyecto HSC\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+C:\Users\alecz\OneDrive\Escritorio\Proyecto HSC\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+C:\Users\user\Desktop\Proyecto HSC Visual Studio\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+C:\Users\user\Desktop\Proyecto HSC Visual Studio\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+C:\Users\user\Desktop\Proyecto HSC Visual Studio\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+C:\Users\user\Desktop\Proyecto HSC Visual Studio\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+C:\Users\user\Desktop\Proyecto HSC Visual Studio\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+C:\Users\user\Desktop\Proyecto HSC Visual Studio\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+C:\Users\user\Desktop\Proyecto HSC Visual Studio\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Proyecto HSC Visual Studio\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+C:\Users\user\Desktop\Proyecto HSC Visual Studio\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+C:\Users\user\Desktop\Proyecto HSC Visual Studio\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Proyecto HSC Visual Studio\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proyecto HSC Visual Studio\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\user\Desktop\Proyecto HSC Visual Studio\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+C:\Users\user\Desktop\Proyecto HSC Visual Studio\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.Shared.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\ShockwaveFlashObjects.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\stdole.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\stdole.dll
+C:\Users\Wilmer\Documents\Navegador\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\stdole.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\stdole.dll
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\stdole.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\wilbe\OneDrive\Escritorio\Pruebas V4\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\stdole.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+C:\Users\USUARIO\Documents\comentar\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\stdole.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+C:\Users\wilbe\OneDrive\Escritorio\PruebasV5\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\obj\Debug\DLL.nav.reporte.resources
+C:\Users\geova\Documents\Octavo_Semestre\Analisis2\NAVEGADOR_AYUDA\DLLnav\DLLnav\obj\Debug\DLL.nav.reporte.resources
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\stdole.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\obj\Debug\DLL.nav.reporte.resources
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CapaVistaCI.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CapaControladorCI.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CapaModeloCI.dll
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CapaVistaCI.pdb
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CapaControladorCI.pdb
+C:\Users\jorgi\Desktop\EntregAnalisi\DLLnav\DLLnav\bin\Debug\CapaModeloCI.pdb
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CapaControladorCI.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CapaModeloCI.dll
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CapaVistaCI.pdb
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CapaControladorCI.pdb
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\bin\Debug\CapaModeloCI.pdb
+C:\Users\Langas\Documents\navegador_proyecto\DLLnav\DLLnav\obj\Debug\DLL.nav.reporte.resources
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CapaControladorCI.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CapaModeloCI.dll
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CapaVistaCI.pdb
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CapaControladorCI.pdb
+D:\Proyectos_Git_Analisis\ERP\DLLnav\DLLnav\bin\Debug\CapaModeloCI.pdb
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\DLLnav.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\DLLnav.pdb
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CapaControlador.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CapaModelo.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\stdole.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CapaControlador.pdb
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\CapaModelo.pdb
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\obj\Debug\DLL.nav.navegador.resources
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\obj\Debug\DLL.nav.Properties.Resources.resources
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\obj\Debug\DLL.nav.reporte.resources
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\obj\Debug\DLLnav.dll
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\obj\Debug\DLLnav.pdb
+C:\Users\Angel\Desktop\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\obj\Debug\CapaVista.csproj.AssemblyReference.cache

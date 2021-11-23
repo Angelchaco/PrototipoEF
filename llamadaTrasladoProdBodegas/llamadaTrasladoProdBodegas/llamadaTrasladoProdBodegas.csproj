@@ -36,6 +36,9 @@
     <Reference Include="CapaVIsta">
       <HintPath>..\..\CapaVIstaTrasladoProdBodegas\CapaVIsta\bin\Debug\CapaVIsta.dll</HintPath>
     </Reference>
+    <Reference Include="DLLnav">
+      <HintPath>..\..\..\..\..\Nav\Proyecto2PAnalisis-master\DLLnav\DLLnav\bin\Debug\DLLnav.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -49,14 +52,35 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="frmMantenimientoBodegas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="frmMantenimientoBodegas.Designer.cs">
+      <DependentUpon>frmMantenimientoBodegas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimientoProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantenimientoProductos.Designer.cs">
+      <DependentUpon>frmMantenimientoProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMDI.Designer.cs">
+      <DependentUpon>frmMDI.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmMantenimientoBodegas.resx">
+      <DependentUpon>frmMantenimientoBodegas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantenimientoProductos.resx">
+      <DependentUpon>frmMantenimientoProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMDI.resx">
+      <DependentUpon>frmMDI.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
